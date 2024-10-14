@@ -56,11 +56,9 @@ If your startup is excelling with GitHub, we want to hear about it!
 
 ---
 
-### 🖐️ Request GitHub’s Industry Leaders at Your Next Event
+## GitHub Leadership Around the World
 
-**Engage our leadership!**  
-Connect with GitHub's leadership and experts for events, joint content, or portfolio education.
+Meet the GitHub leadership team as they connect with the global startup ecosystem. Whether engaging with founders, investors, or the wider tech community, our leaders are continuously championing innovation and collaboration. Here’s a glimpse of where they’ve been:
 
 | ![GitHub CEO & Sequoia](https://github.com/user-attachments/assets/5946e837-08d3-456e-a350-6c73ea8e063a) | ![GitHub CEO & Redpoint](https://github.com/user-attachments/assets/6610c405-9e4a-4332-ad4d-438f5be08042) | ![GitHub COO & Insight](https://github.com/user-attachments/assets/428d2710-fd8e-49d6-b0a2-9da4ea1de6a4) | ![GitHub CRO & Venrock](https://github.com/user-attachments/assets/b33cd20f-47ee-4e9d-97fc-bb4fa7bf5330) | ![GitHub CEO & StationF](https://github.com/user-attachments/assets/fb927a87-0438-4da1-a342-0d2fe895c4d3) |
-|:---:|:---:|:---:|:---:|:---:|
-| **GitHub CEO & Sequoia** | **GitHub CEO & Redpoint** | **GitHub COO & Insight** | **GitHub CRO & Venrock** | **GitHub CEO & StationF** |
+|:---:|:---:|
