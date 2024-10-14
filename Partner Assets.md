@@ -11,19 +11,18 @@ Welcome to the GitHub for Startups Partner repository. We’re excited to partne
 
 ---
 
-## 📧 Support & Contact Information
+## 📧 Support & Contact Information# Startup Program Support
 
-### Startup Program Support
-For any application, billing, or renewal inquiries:  
-📧 startups@github.com
+### Application, Billing, and Renewal Inquiries  
+📧 [startups@github.com](mailto:startups@github.com)
 
-### Technical & Product Support
-Startups can use our expedited support channel and follow up with their ticket number with startups@github.com for priority assistance.
+### Technical & Product Support  
+For expedited support, startups can follow up with their ticket number via [startups@github.com](mailto:startups@github.com) for priority assistance.
 
-### General Inquiries
-For all other questions, contact your GitHub partnership lead.
+### General Inquiries  
+For any other questions, please contact your GitHub partnership lead.
 
-### Stay Updated
+### Stay Updated  
 Ensure you and your portfolio companies are always in the loop.  
 👉 [Subscribe to Updates](#)
 
@@ -34,29 +33,33 @@ Ensure you and your portfolio companies are always in the loop.
 
   > [Access GitHub's Logos here](https://github.com/logos)
 
-  We’ve partnered with GitHub for Startups to unlock exclusive benefits designed to fuel your growth on the world’s leading AI-powered developer platform. Apply to access startup-friendly pricing (up to $25,000 in total savings), tailored technical guidance, access to a global startup network, and other benefits.
+  We’ve partnered with GitHub for Startups to unlock exclusive benefits designed to fuel your growth on the world’s leading AI-powered developer platform. Apply to access startup-friendly pricing (up to $25,000 in total savings), tailored technical guidance, access to a global startup network, and more.
 
-  ### Program Offer
-  - **GitHub Enterprise**: 20 seats free for the first year. An optional 50% off in year two.  
+  ## Program Offer
+  - **GitHub Enterprise**: 
+    - 20 seats free for the first year
+    - Optional 50% off in year two  
     Supercharge your development with advanced security, automation, and collaboration tools.
 
-  - **GitHub Advanced Security**: 20 seats at 50% off in year one. An optional 25% off in year two.  
-    Stay ahead of vulnerabilities with AI-powered security solutions. 
+  - **GitHub Advanced Security**: 
+    - 20 seats at 50% off in year one
+    - Optional 25% off in year two  
+    Stay ahead of vulnerabilities with AI-powered security solutions.
 
-  ### Eligibility
+  ## Eligibility
   - Affiliated with an approved venture partner
-  - Series B or earlier  
-  - New to either GitHub Enterprise or GitHub Advanced Security.
+  - Series B or earlier
+  - New to either GitHub Enterprise or GitHub Advanced Security
 
-  ### Already Using GitHub Enterprise?
+  ## Already Using GitHub Enterprise?  
   If you’re part of GitHub for Startups but not yet using GitHub Advanced Security, you can still unlock these additional benefits. Simply apply, and the GitHub team will reach out to discuss adding Advanced Security to your plan.
 
-  ### Not Eligible?
-  Reach out to startups@github.com for any additional support.
+  ## Not Eligible?  
+  Reach out to [startups@github.com](mailto:startups@github.com) for any additional support.
 
-  ### Apply:
-  - [Apply Here](#) {link your unique partner page}: Their startup team will respond in 1-2 business days.
-  - Please note this program recently expanded to include companies up to Series B and GitHub Advanced Security. These updates aren’t yet reflected in the application or public materials. After applying, the team will reach out, and you can express interest in GitHub Advanced Security then.
+  ## Apply
+  - [Apply Here](#): Their startup team will respond in 1-2 business days.
+  - Please note that this program has recently expanded to include companies up to Series B and GitHub Advanced Security. These updates aren’t yet reflected in the application or public materials. After applying, the team will reach out, and you can express interest in GitHub Advanced Security then.
 
   > **Offer References:** 
   - [GitHub for Startups Home](https://github.com/enterprise/startups/)
@@ -96,7 +99,6 @@ Ensure you and your portfolio companies are always in the loop.
     👉 [Explore Startups](#)
 
 </details>
-
 
 <details>
   <summary>🤝 GitHub + VC Joint Planning Guide</summary>
