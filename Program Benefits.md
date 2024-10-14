@@ -6,6 +6,19 @@ As a part of our commitment to empowering startups, GitHub offers a suite of ben
 
 ---
 
+**Outline**
+1. [Empowering Startups with GitHub](#empowering-startups-with-github)
+2. [Exclusive Partner Offers](#exclusive-partner-offers)
+3. [Host Community Events at GitHub](#host-community-events-at-github)
+4. [Spotlight Your Best Open Source Projects](#spotlight-your-best-open-source-projects)
+5. [Collaborate with the GitHub Fund](#collaborate-with-the-github-fund)
+6. [Nominate a GitHub Success Story](#nominate-a-github-success-story)
+7. [GitHub Leadership Around the World](#github-leadership-around-the-world)
+
+---
+
+---
+
 ## 1. Exclusive Partner Offers
 
 ### Access Special Deals from Top Startup Programs
