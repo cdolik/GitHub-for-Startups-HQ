@@ -11,7 +11,7 @@ Welcome to the GitHub for Startups Partner repository. We’re excited to partne
 
 ---
 
-# 📧 Support & Contact Information
+## 📧 Support & Contact Information
 
 ### Startup Program Support
 For any application, billing, or renewal inquiries:  
@@ -28,37 +28,6 @@ Ensure you and your portfolio companies are always in the loop.
 👉 [Subscribe to Updates](#)
 
 ---
-
-<details>
-  <summary>🔍 Value Adds - How VCs & Accelerators Leverage GitHub</summary>
-
-  Discover how venture capitalists and accelerators can utilize GitHub to enhance their portfolio companies' performance, ensuring they leverage the best tools and practices for scalable growth.
-
-  ## 🌍 Global Connections & Events
-  - **GitHub Events**: Connect with the developer community through global events like GitHub Universe.  
-    👉 [Explore Events](#)
-
-  - **Program Updates**: Keep your portfolio informed on exclusive opportunities.  
-    👉 [Subscribe Here](#)
-
-  ## 📚 Educational Resources & Growth Opportunities
-  - **Learning Pathways**: Help portfolio companies leverage GitHub’s best practices in AI, automation, and security.  
-    👉 [Access Learning Pathways](#)
-
-  - **Success Stories**: Discover how startups have accelerated growth with GitHub.  
-    👉 [Explore Success Stories](#)
-
-  - **Roadmap Webinar Series**: Sneak peek into upcoming GitHub features.  
-    👉 [Join Webinars](#)
-
-  ## 🚀 Accelerate Your Portfolio’s Growth
-  - **GitHub Discussions**: Foster collaboration and engagement within your startups’ communities.  
-    👉 [Learn More](#)
-
-  - **Source Innovative Startups**: Discover trending projects and open-source tools for potential investments.  
-    👉 [Explore Startups](#)
-
-</details>
 
 <details>
   <summary>📣 Sharing Our Partnership</summary>
@@ -96,6 +65,38 @@ Ensure you and your portfolio companies are always in the loop.
   - Include your unique partner page: ([example](https://resources.github.com/startups/?pid=EXAMPLE))
 
 </details>
+
+<details>
+  <summary>🔍 Value Adds - How VCs & Accelerators Leverage GitHub</summary>
+
+  Discover how venture capitalists and accelerators can utilize GitHub to enhance their portfolio companies' performance, ensuring they leverage the best tools and practices for scalable growth.
+
+  ## 🌍 Global Connections & Events
+  - **GitHub Events**: Connect with the developer community through global events like GitHub Universe.  
+    👉 [Explore Events](#)
+
+  - **Program Updates**: Keep your portfolio informed on exclusive opportunities.  
+    👉 [Subscribe Here](#)
+
+  ## 📚 Educational Resources & Growth Opportunities
+  - **Learning Pathways**: Help portfolio companies leverage GitHub’s best practices in AI, automation, and security.  
+    👉 [Access Learning Pathways](#)
+
+  - **Success Stories**: Discover how startups have accelerated growth with GitHub.  
+    👉 [Explore Success Stories](#)
+
+  - **Roadmap Webinar Series**: Sneak peek into upcoming GitHub features.  
+    👉 [Join Webinars](#)
+
+  ## 🚀 Accelerate Your Portfolio’s Growth
+  - **GitHub Discussions**: Foster collaboration and engagement within your startups’ communities.  
+    👉 [Learn More](#)
+
+  - **Source Innovative Startups**: Discover trending projects and open-source tools for potential investments.  
+    👉 [Explore Startups](#)
+
+</details>
+
 
 <details>
   <summary>🤝 GitHub + VC Joint Planning Guide</summary>
