@@ -1,4 +1,7 @@
----
+![image](https://github.com/user-attachments/assets/d573609a-4bb9-4f83-b434-8ae204f2d1a3)
+
+
+
 ## GitHub for Startups: Unlocking Growth and Visibility
 
 As a part of our commitment to empowering startups, GitHub offers a suite of benefits designed to accelerate growth, enhance collaboration, and spotlight your innovations. Here’s how you can leverage these opportunities:
