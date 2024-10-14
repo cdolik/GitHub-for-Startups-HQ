@@ -115,6 +115,55 @@ Apply:
 
 
 
+### GitHub + VC Joint Planning Guide
 
+## Introduction
+This guide aims to facilitate meaningful conversations between GitHub and venture capital partners, aligning goals and exploring collaborative opportunities for portfolio growth in 2025.
 
+---
+
+# GitHub + VC Joint Planning Guide
+
+## Introduction
+This guide aims to facilitate meaningful conversations between GitHub and venture capital partners, aligning goals and exploring collaborative opportunities for portfolio growth in 2025.
+
+---
+
+## 1. Key Discussion Points
+
+### A. Company Goals
+- **2025 Priorities**: What are your fund's key focus areas (e.g., open-source, sustainability)?
+- **Support from GitHub**: How can GitHub enhance growth for your portfolio companies?
+- **Value of Collaboration**: What specific support would be most beneficial (e.g., training, co-marketing)?
+- **Defining Success**: What metrics or outcomes signify success in partnerships?
+
+### B. Portfolio Goals
+- **Current Utilization**: How are your portfolio companies using GitHub, and where can they improve?
+- **Support Areas**: What specific aspects need enhancement (e.g., GitHub tools, AI, open-source)?
+
+---
+
+## 2. Educational Opportunities
+
+### A. Education Initiatives
+- **Technical Training**: Interactive sessions on GitHub tools and best practices.
+- **Industry Insights**: Workshops focused on emerging trends, including AI and innovation.
+- **Partnership Guidance**: Strategies for integrating and scaling with GitHub.
+- **VC-Focused Resources**: Educational materials tailored for venture capitalists to deepen their understanding of GitHub.
+
+### B. Collaboration Ideas
+- **Event Co-hosting**: Collaborate on industry events to showcase joint expertise.
+- **Co-marketing Campaigns**: Promote success stories through joint branding.
+- **Portfolio Workshops**: Offer targeted training for portfolio companies.
+- **GitHub Fund Opportunities**: Explore investment opportunities aligned with GitHub initiatives.
+- **Other Collaboration Ideas**: __________
+
+---
+
+## 3. Identifying Educational Needs
+- **Event Participation**: Are you interested in GitHub events (e.g., speaking engagements)?
+- **Collaboration in 2025**: What specific events do you wish to collaborate on next year?
+- **Success Metrics**: What outcomes would indicate a successful partnership for you?
+
+---
 
