@@ -32,47 +32,30 @@ Ensure you and your portfolio companies are always in the loop.
 
 👉 [Subscribe to Updates](#)
 
+# Value Adds - how VCs & Accelerators leverage GitHub:
 ## 🌍 Global Connections & Events
+- **GitHub Events**: Connect with the developer community through global events like GitHub Universe.  
+  👉 [Explore Events](#)
 
-### GitHub Events
-Connect with the developer community through global events like GitHub Universe and more.
-
-👉 [Explore Events](#)
-
-### Program Updates
-Keep your portfolio informed on exclusive opportunities by subscribing to our newsletter.
-
-👉 [Subscribe Here](#)
+- **Program Updates**: Keep your portfolio informed on exclusive opportunities.  
+  👉 [Subscribe Here](#)
 
 ## 📚 Educational Resources & Growth Opportunities
+- **Learning Pathways**: Help portfolio companies leverage GitHub’s best practices in AI, automation, and security.  
+  👉 [Access Learning Pathways](#)
 
-### Learning Pathways
-Help your portfolio companies leverage GitHub’s best practices in AI, automation, and security.
+- **Success Stories**: Discover how startups have accelerated growth with GitHub.  
+  👉 [Explore Success Stories](#)
 
-👉 [Access Learning Pathways](#)
-
-### Success Stories
-Discover how startups like yours have accelerated growth with GitHub. Use these stories to inspire and guide your investments.
-
-👉 [Explore Success Stories](#)
-
-### Roadmap Webinar Series
-Get a sneak peek into upcoming GitHub features, helping you and your portfolio stay ahead.
-
-👉 [Join Webinars](#)
+- **Roadmap Webinar Series**: Sneak peek into upcoming GitHub features.  
+  👉 [Join Webinars](#)
 
 ## 🚀 Accelerate Your Portfolio’s Growth
+- **GitHub Discussions**: Foster collaboration and engagement within your startups’ communities.  
+  👉 [Learn More](#)
 
-### Build your community with GitHub Discussions
-Use GitHub Discussions to foster collaboration and engagement within your startups’ developer communities.
-
-👉 [Learn More](#)
-
-### Source Innovative Startups
-Use GitHub Explore to discover trending projects and promising open-source tools that could inform your next investment.
-
-👉 [Explore Startups](#)
-
+- **Source Innovative Startups**: Discover trending projects and open-source tools for potential investments.  
+  👉 [Explore Startups](#)
 
 ## 📣 Sharing our Partnership:
 
