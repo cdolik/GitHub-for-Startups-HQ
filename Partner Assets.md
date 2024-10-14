@@ -1,38 +1,86 @@
 # Partner Assets
 ![Screenshot 2023-08-09 at 2 15 55 PM](https://github.com/GitHub-for-Startups/Global-Repo/assets/104146251/e6ce8f96-f1d0-443f-a9c2-37952f701879)
 
-
 ### <p align="center">GitHub for Startups partners with the world's leading investors to create the unicorns of tomorrow</p>
 
-Welcome to the GitHub for Startups Partner repository. This space is dedicated to our venture partners who are teaming with us to empower the next generation of unicorns building with GitHub. Through our partnership, your portfolio companies gain exclusive access to GitHub’s best tools, resources, and network designed to accelerate their growth on the world’s leading AI-powered developer platform.
+<div align="center">
 
-## Support & Contact Information
-<details>
-  <summary>Open</summary>
+Welcome to the GitHub for Startups Partner repository. We’re excited to partner with you to support the next wave of high-growth startups building on GitHub. As a venture partner, your portfolio companies unlock exclusive access to GitHub’s best-in-class tools, resources, and developer community—empowering them to scale faster on the world’s most advanced, AI-powered developer platform.
 
-  - **Startup Program Support:** For application, billing, or renewal inquiries, contact [startups@github.com](mailto:startups@github.com).
-  - **Technical & Product Support:** Startups can use our [expedited support channel](https://support.github.com/contact?tags=hh-github-for-startups) and share their ticket number with [startups@github.com](mailto:startups@github.com) for priority assistance.
-  - **General Inquiries:** For anything else, please reach out to your GitHub partnership lead.
+</div>
 
-  Stay Connected: Ensure you and your portfolio companies stay updated with the latest from GitHub for Startups by subscribing to this repository with a [free GitHub account](https://github.com/pricing).
+#### Outline
+> - [📧 Support & Contact Information](#support--contact-information)
+> - [🌍 Global Connections & Events](#-global-connections--events)
+> - [📚 Educational Resources & Growth Opportunities](#-educational-resources--growth-opportunities)
+> - [🚀 Build with GitHub](#-accelerate-your-portfolios-growth)
 
-</details>
+## 📧 Support & Contact Information
 
-## 📚 Partner Onboarding & Resources
-<details><summary>
-Open
-</summary>
+### Startup Program Support
+For any application, billing, or renewal inquiries:  
+📧 startups@github.com
 
-<span style="margin-right:20px;"></span>
+### Technical & Product Support
+Startups can use our expedited support channel and follow up with their ticket number with startups@github.com for priority assistance.
 
-</summary>
+### General Inquiries
+For all other questions, contact your GitHub partnership lead.
+
+### Stay Updated
+Ensure you and your portfolio companies are always in the loop.
+
+👉 [Subscribe to Updates](#)
+
+## 🌍 Global Connections & Events
+
+### GitHub Events
+Connect with the developer community through global events like GitHub Universe and more.
+
+👉 [Explore Events](#)
+
+### Program Updates
+Keep your portfolio informed on exclusive opportunities by subscribing to our newsletter.
+
+👉 [Subscribe Here](#)
+
+## 📚 Educational Resources & Growth Opportunities
+
+### Learning Pathways
+Help your portfolio companies leverage GitHub’s best practices in AI, automation, and security.
+
+👉 [Access Learning Pathways](#)
+
+### Success Stories
+Discover how startups like yours have accelerated growth with GitHub. Use these stories to inspire and guide your investments.
+
+👉 [Explore Success Stories](#)
+
+### Roadmap Webinar Series
+Get a sneak peek into upcoming GitHub features, helping you and your portfolio stay ahead.
+
+👉 [Join Webinars](#)
+
+## 🚀 Accelerate Your Portfolio’s Growth
+
+### Build your community with GitHub Discussions
+Use GitHub Discussions to foster collaboration and engagement within your startups’ developer communities.
+
+👉 [Learn More](#)
+
+### Source Innovative Startups
+Use GitHub Explore to discover trending projects and promising open-source tools that could inform your next investment.
+
+👉 [Explore Startups](#)
+
+
+## 📣 Sharing our Partnership:
 
 > [Access GitHub's Logos here](https://github.com/logos)
 
-You can copy this section with one click & add referenced links below
 ```
-We’ve partnered with GitHub for Startups to unlock exclusive benefits designed to fuel your growth on the world’s leading AI-powered developer platform.
-The partnership offers startup-friendly pricing (up to $25,000 in total savings), tailored technical guidance, access to a global startup network, and other opportunities.
+
+We’ve partnered with GitHub for Startups to unlock exclusive benefits designed to fuel your growth on the world’s leading AI-powered developer platform. Apply to access startup-friendly pricing (up to $25,000 in total savings), tailored technical guidance, access to a global startup network, and other benefits.
 
 Program Offer
 
@@ -44,8 +92,8 @@ Stay ahead of vulnerabilities with AI-powered security solutions.
 
 Eligibility:
 
-- Affiliated with an approved venture partner.
-- Series B or earlier.
+- Affiliated with an approved venture partner
+- Series B or earlier. 
 - New to either GitHub Enterprise or GitHub Advanced Security.
 
 Already using GitHub Enterprise?
